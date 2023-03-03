@@ -35,7 +35,7 @@ create .env in root folder
 MONGO_URI = mongodb://0.0.0.0:27017/chatGPT
 ```
 
-## Create APi collection
+## Create APIS collection to monggodb
 import apis collection from /import_db 
 in the documents, change your-key to some keys, the source support multi-key
 
